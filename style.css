@@ -1,0 +1,8 @@
+body {
+  background-image: url("https://s3.amazonaws.com/makeitreal/cars/jaguar-xe.jpg");
+}
+@media (min-width:768px;) {
+  body {max-width:100%;
+    
+  }
+}
