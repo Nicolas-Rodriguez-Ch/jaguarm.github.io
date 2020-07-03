@@ -1,5 +1,6 @@
 body {
   background: url("https://s3.amazonaws.com/makeitreal/cars/jaguar-xe.jpg");  no-repeat cover;
+  max-width:100%
 }
 @media (min-width:768px;) {
   body {background-size: cover;
