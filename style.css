@@ -2,17 +2,17 @@ body {
   background-image: url("https://s3.amazonaws.com/makeitreal/cars/jaguar-xe.jpg");
 }
 @media (min-width:768px;) {
-  body {max-width:100%;
+  body {max-aspect-ratio:100%;
     
   }
 }
 @media (min-width:992px;) {
-  body {max-width:100%;
+  body {max-aspect-ratio:100%;
     
   }
 }
 @media (min-width:1200px;) {
-  body {max-width:100%;
+  body {max-aspect-ratio:100%;
     
   }
 }
