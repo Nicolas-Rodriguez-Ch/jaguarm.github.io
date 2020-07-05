@@ -5,17 +5,13 @@ body {
 }
 @media (min-width:768px;) {
   body {background-size: cover;
-    max-width:100%
-    
   }
 }
 @media (min-width:992px;) {
   body {background-size: cover;
-    max-width:100%
   }
 }
 @media (min-width:1200;) {
   body {background-size: cover;
-    max-width:100%
   }
 }
