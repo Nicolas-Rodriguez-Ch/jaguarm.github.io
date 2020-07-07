@@ -3,7 +3,7 @@ body {
   background-repeat: no-repeat, repeat;
  background-size: cover;
 }
-.container {background: rgba(46, 49, 49, 1);
+.container {background: rgba(46, 49, 49, 1.0);
   margin: 25px auto;
   width: 600px;
   height: 600px;
