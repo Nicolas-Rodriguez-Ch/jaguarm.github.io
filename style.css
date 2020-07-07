@@ -19,6 +19,7 @@ body {
   font-family: 'Roboto', sans-serif;
   color: white;
   font-weight: bold;
+  text-align: center;
 }
 @media (min-width:768px;) {
   body {background-size: cover;
