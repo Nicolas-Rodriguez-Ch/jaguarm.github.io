@@ -6,14 +6,20 @@ body {
 .container {float: left;
   display: flex;
   background: rgba(0, 0, 0, 0.3);
+  flex-wrap: wrap;
   margin: 25px auto;
   width: 600px;
   border-radius: 5px;
   font-family: 'Roboto', sans-serif;
   color: white;
+}
+.boton {background: #DB3030 ;
+  width: 400px;
+  border-radius: 5px;
+  font-family: 'Roboto', sans-serif;
+  color: white;
   font-weight: bold;
 }
-
 @media (min-width:768px;) {
   body {background-size: cover;
   }
