@@ -4,13 +4,16 @@ body {
  background-size: cover;
    background-position: center;
 }
-.container {float: left;
+.container {
+  position: relative;
+  left: 30px;
+  float: left;
   display: flex;
   background: rgba(0, 0, 0, 0.7);
   flex-wrap: wrap;
   margin: 25px auto;
   width: 600px;
-  border-radius: 5px;
+  border-radius: 15px;
   font-family: 'Roboto', sans-serif;
   color: white;
 }
