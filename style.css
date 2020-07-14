@@ -27,7 +27,7 @@ body {
   font-weight: bold;
   text-align: center;
   padding: 15px;
-  margin: 15px;
+  margin: 25px;
 }
 @media (min-width:768px;) {
   body {background-size: cover;
