@@ -32,18 +32,19 @@ body {
 @media (min-width:768px;) {
   body {background-size: cover;
   }
-  .container {max-width: 600px;
+  .container {
+    margin: 70px 65px;
   }
 }
 @media (min-width:992px;) {
   body {background-size: cover;
   }
-  .container {max-width: 600px;
+  .container {margin: 70px 65px;;
   }
 }
 @media (min-width:1200;) {
   body {background-size: cover;
   }
-  .container {max-width: 600px;
+  .container {margin: 70px 65px;
   }
 }
