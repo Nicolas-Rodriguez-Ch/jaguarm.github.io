@@ -16,14 +16,14 @@ body {
   background: rgba(0, 0, 0, 0.7);
   flex-wrap: wrap;
   margin: 25px auto;
-  width: 600px;
+  max-width: 600px;
   border-radius: 10px;
   color: white;
   padding: 25px
 }
 
 .boton {background: #DB3030 ;
-  width: 200px;
+  max-width: 200px;
   border-radius: 5px;
   color: white;
   font-weight: bold;
