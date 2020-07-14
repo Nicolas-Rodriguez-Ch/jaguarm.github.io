@@ -2,7 +2,7 @@ body {
   background-image: url("https://s3.amazonaws.com/makeitreal/cars/jaguar-xe.jpg");
   background-repeat: no-repeat;
   background-size: cover;
-  background-position: center;
+  background-position: center center;
 }
 .container {
   position: relative;
